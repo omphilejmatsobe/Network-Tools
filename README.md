@@ -5,10 +5,10 @@
 Let's have fun with network tools. This is the first step to exploring some of the network tools i've built.
 
 ## General
-* Cisfun
+* Networks are cool.
 
 ## Projects:
-1. [0x00](https://github.com/omphilejmatsobe/Network-Tools/tree/master/) - Port_Scanner
+1. [0x00](https://github.com/omphilejmatsobe/Network-Tools/tree/master/PortScanner) - Port_Scanner
 
 ## Additional info :construction:
 ### Resources
